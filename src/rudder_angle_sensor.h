@@ -1,0 +1,5 @@
+
+class RudderAngleSensor {
+ public:
+  RudderAngleSensor();
+};
